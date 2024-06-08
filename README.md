@@ -1,6 +1,6 @@
 # GastroLab
 
-Este projeto foi criado como uma atividade acadêmica para a **FIAP**. O objetivo é desenvolver uma aplicação móvel e uma aplicação web que funcionem de forma integrada.
+Este projeto foi criado como uma atividade acadêmica para a **FIAP**. O objetivo é desenvolver uma aplicação mobile e uma aplicação web que funcionem de forma integrada.
 
 Por questões de organização esse projeto foi dividido em dois respositórios:
 
@@ -13,7 +13,7 @@ Por questões de organização esse projeto foi dividido em dois respositórios:
 
 Este projeto é uma solução para reservas de clientes em um restaurante.
 
-- A aplicação móvel permite que os clientes façam suas reservas.
+- A aplicação mobile permite que os clientes façam suas reservas.
 - As reservas criadas são enviadas para a API.
 - No site, as reservas podem ser gerenciadas, permitindo a confirmação ou o cancelamento.
    
