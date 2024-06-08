@@ -45,7 +45,8 @@ $ git clone <https://github.com/lazarusms/gastrolab-mobile>
 $ cd gastrolab-mobile
 
 # Rode o emulador
-# A maneira mais simples de fazer isso é executando o projeto no Android Studio - O projeto é configurado para se conectar ao localhost do emulador
+# A maneira mais simples de fazer isso é executando o projeto no Android Studio
+# O projeto é configurado para se conectar ao localhost do emulador
 ```
 
 <div align="center">
