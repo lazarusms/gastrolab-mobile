@@ -6,6 +6,8 @@ Por questões de organização esse projeto foi dividido em dois respositórios:
 
  - [Web](https://github.com/lazarusms/gastrolab)
  - [Mobile](https://github.com/lazarusms/gastrolab-mobile)
+   
+*Os repositórios estão separados, mas o projeto está integrado.*
 
 ### 💻 O projeto
 
