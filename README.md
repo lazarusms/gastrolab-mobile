@@ -25,10 +25,10 @@ $ git clone <https://github.com/lazarusms/gastrolab>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd gastrolab
 
-# Build o projeto
+# Build o projeto [Docker] 
 $ make build
 
-# Execute a aplicação
+# Execute a aplicação [Docker]
 $ make run
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080/index.html>
